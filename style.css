@@ -1,8 +1,45 @@
+h1 {
+    font-family: 'DynaPuff', cursive;
+}
+
 header {
     margin-top: 20px;
     margin-left: 30px;
 }
 
 .nav-content {
-    padding-left: 30px;
+    padding-left: 40px;
+}
+
+h5 {
+    text-align: center;
+}
+
+.content {
+    margin-top: 60px;
+}
+
+.bio {
+    border-radius: 10px;
+    margin: 50px 300px;
+    padding: 50px;
+    border: 1px solid black;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.card {
+    width: 500px;
+}
+
+#card2 {
+    width: 750px;
+    height: 660px;
+}
+
+.imageofkim {
+    height: 500px;
+    padding-bottom: 5px;
 }
